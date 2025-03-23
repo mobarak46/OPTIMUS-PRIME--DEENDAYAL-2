@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://github.com/MrRaazz/Pics/blob/main/deenu.jpg"> </p>
 
 **OWNER**
 <!-- > ## ⚠ <u>Under Maintenance</u> ⚠  
